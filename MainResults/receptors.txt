@@ -1,0 +1,57 @@
+Toll-like receptor 1
+Toll-like receptor 2
+Toll-like receptor 3
+Toll-like receptor 4
+Toll-like receptor 5
+Toll-like receptor 6
+Toll-like receptor 7
+Toll-like receptor 8
+Toll-like receptor 9
+Toll-like receptor 10
+MHC class II transactivator
+Baculoviral IAP repeat-containing protein 1
+NLR family CARD domain-containing protein 4
+Nucleotide-binding oligomerization domain-containing protein 1
+Nucleotide-binding oligomerization domain-containing protein 2
+NLR family CARD domain-containing protein 3
+Protein NLRC5
+NLR family member X1
+NACHT, LRR and PYD domains-containing protein 1
+NACHT, LRR and PYD domains-containing protein 2
+NACHT, LRR and PYD domains-containing protein 3
+NACHT, LRR and PYD domains-containing protein 4
+NACHT, LRR and PYD domains-containing protein 5
+NACHT, LRR and PYD domains-containing protein 6
+NACHT, LRR and PYD domains-containing protein 7
+NACHT, LRR and PYD domains-containing protein 8
+NACHT, LRR and PYD domains-containing protein 9
+NACHT, LRR and PYD domains-containing protein 10
+NACHT, LRR and PYD domains-containing protein 11
+NACHT, LRR and PYD domains-containing protein 12
+NACHT, LRR and PYD domains-containing protein 13
+NACHT, LRR and PYD domains-containing protein 14
+Neutrophil defensin 1
+Neutrophil defensin 3
+Defensin alpha 4
+Defensin alpha 5
+Defensin-6
+Beta-defensin 1
+Defensin beta 4A
+Beta-defensin 103
+Macrophage mannose receptor 1
+Lymphocyte antigen 75
+C-type lectin domain family 6 member A
+C-type lectin domain family 4 member C
+C-type lectin domain family 4 member E
+C-type lectin domain family 4 member A
+C-type lectin domain family 7 member A
+C-type lectin domain family 12 member A
+C-type lectin domain family 1 member B
+C-type lectin domain family 12 member B
+CD209 antigen
+C-type lectin domain family 4 member K
+C-type lectin domain family 10 member A
+C-type lectin domain family 5 member A
+Antiviral innate immune response receptor RIG-I
+Interferon-induced helicase C domain-containing protein 1
+ATP-dependent RNA helicase DHX58
